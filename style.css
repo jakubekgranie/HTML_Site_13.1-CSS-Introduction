@@ -1,0 +1,89 @@
+body{
+	background-color: BurlyWood;
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+}
+p{
+	text-align: justify;
+	font: italic 12px Verdana;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-style: italic;
+	font-size:  36pt;
+	text-decoration: line-through;
+}
+h2{
+	color: olive;
+	font-size: 30pt;
+	text-align: left;
+	font-weight: bold;
+}
+h3{
+	font-size: 26pt;
+	text-align: right;
+	color: red;
+	text-decoration: underline;
+}
+h4{
+	font-size: 20pt;
+	text-align: center;
+	color: blue;
+	text-decoration: overline;
+}
+h5{
+	font-size: 10pt;
+	text-align: right;
+	color: yellow;
+}
+h6{
+	font-size: 14pt;
+	text-align: left;
+	color: #00ff00;
+	margin: 1cm 2cm 3cm 4cm;
+}
+img{
+	border: 5px solid orange;
+}
+table{
+	border-style: solid;
+	border-color:  #ff0000 #00ff00 #0000ff rgb(250,0,255);
+	border-width: 10pt;
+	border-style: double;
+}
+td{
+	border-style: outset;
+}
+font{
+	font-family: Courier;
+	font-size: 24pt;
+}
+hr{
+	color: sienna;
+	height: 3px;
+	border: none;
+}
+a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: bold;
+}
+a:link{
+	color: green;
+	text-decoration: none;
+}
+a:visited{
+	color: yellow;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+	text-decoration: underline;
+}
+a:active{
+	color: blue;
+	text-decoration: none;
+}
